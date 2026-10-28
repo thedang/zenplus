@@ -1,0 +1,6 @@
+{
+  "name": "ZenPulse - Ứng Dụng Hít Thở Rung Nhịp",
+  "description": "Ứng dụng luyện nhịp hít thở di động với rung phản hồi xúc giác (Haptic) và chuông âm thanh, cho phép nhắm mắt theo dõi nhịp hít, nín thở, thở ra với các chế độ tùy chỉnh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
